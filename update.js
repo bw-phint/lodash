@@ -30,3 +30,4 @@ function update(object, path, updater) {
 }
 
 export default update
+// for testing only
